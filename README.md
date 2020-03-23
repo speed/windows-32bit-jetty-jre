@@ -2,12 +2,19 @@
 
 1.Download NewCrawler war:
 
-	https://github.com/speed/newcrawler
-
-2.Replace speed/newcrawler/war to speed/windows-32bit-jetty-jre/war
+	https://github.com/speed/newcrawler/archive/master.zip
 	
-3.Run start.bat 
+2.Download NewCrawler server:
 
-4.http://127.0.0.1:8500/
+	https://github.com/speed/windows-32bit-jetty-jre/archive/master.zip
+
+
+3.Copy newcrawler/war to windows-32bit-jetty-jre/war
+	
+4.Run start.bat 
+
+5.http://127.0.0.1:8500/
+
+	
 
 	
